@@ -1,0 +1,1 @@
+package com.hillert.coherence.spring.demo.config;
