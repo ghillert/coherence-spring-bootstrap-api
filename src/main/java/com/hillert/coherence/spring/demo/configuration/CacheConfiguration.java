@@ -4,12 +4,10 @@ import com.oracle.coherence.spring.configuration.annotation.EnableCoherence;
 
 import com.oracle.coherence.spring.configuration.session.SessionConfigurationBean;
 import com.oracle.coherence.spring.configuration.session.SessionType;
-import org.springframework.cache.annotation.EnableCaching;
 import org.springframework.context.annotation.Bean;
 import org.springframework.context.annotation.Configuration;
 
 @Configuration
-@EnableCaching
 @EnableCoherence
 public class CacheConfiguration {
 
