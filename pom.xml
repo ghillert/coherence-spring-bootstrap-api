@@ -13,7 +13,7 @@
 
 	<properties>
 		<mainClass>com.hillert.coherence.spring.demo.tomcat.Server</mainClass>
-		<tomcat.version>9.0.88</tomcat.version>
+		<tomcat.version>9.0.90</tomcat.version>
 		<coherence.version>22.06.8</coherence.version>
 		<coherence.spring.version>3.3.6</coherence.spring.version>
 		<log4j.version>2.23.1</log4j.version>
